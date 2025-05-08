@@ -7,6 +7,19 @@ This Streamlit app provides tools for stock market analysis and predictions usin
 
 <img width="1511" alt="Landing Page" src="https://github.com/user-attachments/assets/d82e218a-fc02-4465-a4e7-7dbc70693e6a" />
 
+<img width="1512" alt="Market Data" src="https://github.com/user-attachments/assets/3f6e2ea0-9a4f-4eba-9a85-5c1dce1d6eee" />
+
+<img width="1512" alt="Technical Charts" src="https://github.com/user-attachments/assets/a11da2dd-24ae-44c1-8a63-8ca9f136dc94" />
+
+
+
+<img width="1512" alt="LSTM predictions" src="https://github.com/user-attachments/assets/43e4b51d-5a89-49f4-b5c4-7c7758309e9b" />
+
+
+<img width="1512" alt="ARIMA predictions" src="https://github.com/user-attachments/assets/ad74de84-32e1-440b-9692-29f4f5c1c75a" />
+
+
+
 ## Project Structure
 
 - **Landing.py**: The main entry point of the application.
