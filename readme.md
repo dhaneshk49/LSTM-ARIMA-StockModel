@@ -2,6 +2,11 @@
 
 This Streamlit app provides tools for stock market analysis and predictions using various machine learning models. It allows users to visualize stock data, generate predictions, and interact with pre-trained models such as ARIMA and LSTM.
 
+
+## Website Screenshots
+
+<img width="1511" alt="Landing Page" src="https://github.com/user-attachments/assets/d82e218a-fc02-4465-a4e7-7dbc70693e6a" />
+
 ## Project Structure
 
 - **Landing.py**: The main entry point of the application.
