@@ -81,15 +81,8 @@ Contributions are welcome! Please follow these steps:
     ```bash
     git push origin feature/your-feature-name
     ```
-5. Open a pull request.
 
 ## Acknowledgments
 
 - Thanks to [Streamlit](https://streamlit.io) for providing the framework to build this app.
 - Data is fetched using the [yfinance](https://github.com/ranaroussi/yfinance) library.
-
-## Contact
-
-Created by [Your Name](https://yourwebsite.com) - feel free to contact me!
-# msc_app
-# mscproject
